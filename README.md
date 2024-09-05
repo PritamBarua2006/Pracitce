@@ -1,3 +1,3 @@
 # Pracitce
-Tutorial\n
+Tutorial
 It is tutirial for beginners
